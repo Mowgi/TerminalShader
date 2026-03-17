@@ -1,5 +1,7 @@
 # Terminal Shader
 
+**I am tweaking all the values and methods constantly, it might be a bit bonked at times**
+
 ## What if my Minecraft was green, and looked like a terminal?
 
 ### A basic shader that turns Minecraft into a green and black game.
