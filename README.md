@@ -13,6 +13,13 @@ Make sure you have a mod that enables shaders, such as Iris, Oculus, or Optifine
 **This shader works with most to all new verisons**
 
 
+## Planned features to add:
+ - A settings page
+ - Edge only rendering
+ - CRT scanlines
+ - Fisheye-ish lens warping
+ - Diffused Lighting
+
 
 
 
